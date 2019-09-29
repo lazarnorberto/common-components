@@ -1,0 +1,22 @@
+a:hover {
+  color: lightgreen;
+}
+
+h1, h2, p {
+  color: darkblue;
+}
+
+[data-furniture="table"] {
+  color: red;
+}
+
+#second-paragraph {
+    background-color: red;
+}
+
+p {
+    background-color: blue !important;
+    color: white;
+    padding: 5px;
+    border: 2px solid black;
+}
