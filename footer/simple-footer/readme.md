@@ -1,1 +1,1 @@
-A simple footer with a navbar
+**A simple footer with a navbar**
